@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="inserir_cep">Inserir CEP</string>
+    <string name="pesquisar_com_cep">Pesquisar com CEP</string>
+    <string name="digite_a_rua">Digite a RUA</string>
+    <string name="digite_a_cidade">Digite a CIDADE</string>
+    <string name="digite_a_estado">Digite a ESTADO</string>
+    <string name="pesquisar_com_rua_cidade_e_estado">Pesquisar com Rua, Cidade e Estado</string>
+</resources>
